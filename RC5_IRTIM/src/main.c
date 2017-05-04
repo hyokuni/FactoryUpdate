@@ -46,6 +46,7 @@
  RC5_Instruction_TypeDef Instruction;
  RC5_Ctrl_TypeDef RC5_Ctrl1 = RC5_Ctrl_Reset;
  RC5_Ctrl_TypeDef RC5_Ctrl2 = RC5_Ctrl_Reset;
+ RC5_Ctrl_TypeDef RC5_Ctrl3 = RC5_Ctrl_Reset;
 
 /* Private function prototypes -----------------------------------------------*/
 void Delay (uint16_t nCount);
